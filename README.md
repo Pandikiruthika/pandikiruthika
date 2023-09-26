@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pandi kiruthika p</h1>
+<h1 align="center">Hi 👋, I'm Pandi kiruthika P</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
 - 🌱 I’m currently learning **Full Stack Developement with MERN Stack**
