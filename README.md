@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pandi kiruthika P</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
-- 🌱 I’m a**Full Stack Developement with MERN Stack**
+- 🌱 I’m a **Full Stack Developement with MERN Stack**
 
 - 👨‍💻 Project Portfolio [https://pandikiruthika.github.io/portfolio/](https://pandikiruthika.github.io/portfolio/)
 
